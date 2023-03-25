@@ -27,8 +27,8 @@
   --fluent-text-on-accent-color: 0, 0, 0;
   --fluent-acrylic-background: url(https://cdn.discordapp.com/attachments/766318657759871008/1089018290866757674/605aa087-c7ac-41ad-a4d0-859cc09d79f8.png);
   --fluent-acrylic-background-blur: 24px;
-  --fluent-acrylic-background-dimness: 75%;
-  --fluent-acrylic-background-saturate: 140%;
+  --fluent-acrylic-background-dimness: 50%;
+  --fluent-acrylic-background-saturate: 100%;
   --fluent-guilds-icon-size: 40px;
 }
 
